@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://thankful-volunteers-703936.framer.app/:path*"
+      "destination": "https://crystalloh.framer.website/:path*"
     }
   ]
 }
