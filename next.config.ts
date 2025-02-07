@@ -5,12 +5,8 @@ const nextConfig: NextConfig = {
   rewrites: async () => {
     return [
       {
-        source: '/test',
-        destination: 'https://start-saas.com'
-      },
-      {
         source: '/:path*',
-        destination: 'https://thankful-volunteers-703936.framer.app/:path*'
+        destination: 'https://crystalloh.framer.website/:path*'
       },
     ]
   }
